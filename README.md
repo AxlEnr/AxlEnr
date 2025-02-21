@@ -12,7 +12,6 @@
 ✉️ &nbsp;You can shoot me an email at axel.garcia0814@gmai.com!\
 📄 &nbsp;Please have a look at my website for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://axlenr.github.io/portfolioaxel.github.i" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
