@@ -11,8 +11,10 @@
 
 ### 🔧 Tech Stack & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,flutter,nodejs,react,angular,express,nestjs,django,sass,tailwind,bootstrap,git,github,arch,ubuntu,mysql,sqlite,azure,oracle,postman,netlify,vscode,androidstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server" title="SQL Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Oracle_Cloud_Logo.svg" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
 </p>
 
 ---
