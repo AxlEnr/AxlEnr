@@ -11,7 +11,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=py,dart,js,ts,java,flutter,react,nodejs,nestjs,django,flask,html,css,sass,tailwind,bootstrap,git,github,linux,vscode,androidstudio&perline=8" />
 </p>
 
