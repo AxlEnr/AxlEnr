@@ -1,9 +1,3 @@
-<style>
-  .tech:hover{
-    width:20px;
-  }
-</style>
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"><h2>Hey there! I'm Axel 👨‍💻</h2>
 
 ### 🚀 Mobile & Backend Developer | Systems Engineering Student
@@ -18,7 +12,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img class="tech" src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,flutter,nodejs,react,angular,express,nestjs,django,sass,tailwind,bootstrap,git,github,arch,ubuntu,mysql,sqlite,azure,postman,netlify,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,flutter,nodejs,react,angular,express,nestjs,django,sass,tailwind,bootstrap,git,github,bash,ubuntu,mysql,sqlite,azure,prisma,postman,netlify,vscode,androidstudio" />
 </p>
 
 ---
