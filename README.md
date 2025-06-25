@@ -12,7 +12,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,py,dart,js,ts,java,flutter,react,nodejs,nestjs,django,angular,css,sass,tailwind,bootstrap,git,github,archlinux,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,py,dart,js,ts,java,flutter,react,nodejs,nestjs,django,angular,css,sass,tailwind,bootstrap,git,github,arch,vscode,androidstudio" />
 </p>
 
 ---
