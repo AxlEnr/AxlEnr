@@ -18,7 +18,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,flutter,nodejs,react,angular,express,nestjs,django,sass,tailwind,bootstrap,git,github,arch,ubuntu,mysql,sqlite,azure,postman,netlify,vscode,androidstudio" />
+  <img class="tech" src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,flutter,nodejs,react,angular,express,nestjs,django,sass,tailwind,bootstrap,git,github,arch,ubuntu,mysql,sqlite,azure,postman,netlify,vscode,androidstudio" />
 </p>
 
 ---
