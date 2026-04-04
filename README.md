@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"><h2>Hey there! I'm Axel 👨‍💻</h2>
 
-### 🚀 Mobile & Backend Developer | Systems Engineering Student
+### 🚀 Mobile & Backend Developer | Computer Systems Engineering
 
 💡 Passionate about creating smart solutions with code.  
 🎓 Studying Computer Systems Engineering at the University Polytechnic of Tulancingo.  
