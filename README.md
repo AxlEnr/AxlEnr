@@ -19,9 +19,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AxlEnr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlEnr&layout=compact&langs_count=8&theme=algolia"/>
+<p><img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AxlEnr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="arturo-mtz" 
+    bg_color=#808080/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AxlEnr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
 ### 📊 Codewars Stats
