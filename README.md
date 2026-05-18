@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Axel%20García&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Backend%20Developer%20·%20CSE%20Student&descAlignY=55&descColor=8b949e" />
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Systems+Engineering+%F0%9F%8E%93;Mobile+Developer+with+Flutter+%26+Dart+%F0%9F%93%B1;Backend+Engineer+%7C+Laravel+%7C+NestJS+%F0%9F%9A%80;Exploring+AI+%26+Full-Stack+Development+%F0%9F%A4%96;Building+Smart+Solutions+with+Code+%F0%9F%92%A1" alt="Typing SVG" />
 
 </div>
