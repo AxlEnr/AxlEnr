@@ -98,16 +98,6 @@ const axel = {
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AxlEnr&repo=portfolioaxel.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/AxlEnr/portfolioaxel.github.io)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
