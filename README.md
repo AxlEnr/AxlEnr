@@ -25,6 +25,10 @@ const axel = {
 ---
 
 ## 🚀 Tech Stack
+### Main Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,spring,angular,php,java,typescript,docker,kubernetes,gitlab" />
+</p>
 
 ### 🎨 Frontend
 <p align="center">
