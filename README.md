@@ -16,7 +16,7 @@ const axel = {
   degree:      "Computer Systems Engineering",
   location:    "Hidalgo, México 🇲🇽",
   email:       "axel.garcia0814@gmail.com",
-  passion:     ["AI", "Full-Stack Development", "Mobile Apps", "Clean Architecture"],
+  passion:     ["Programming", "Full-Stack Development", "Mobile Apps", "Clean Architecture"],
   currentFocus: "Building scalable backends + cross-platform mobile apps",
   funFact:     "I think in algorithms and dream in APIs ☕",
 };
@@ -38,17 +38,17 @@ const axel = {
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,php,laravel,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,php,laravel,py,java,spring" />
 </p>
 
 ### 🗄️ Databases & ORM
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,supabase,prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,supabase,prisma,postgresql" />
 </p>
 
 ### 🛠️ Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,postman,vercel,vscode,gitlab,docker,kubernetes" />
 </p>
 
 ---
